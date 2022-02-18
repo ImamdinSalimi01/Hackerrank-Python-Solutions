@@ -22,7 +22,7 @@ Hello, World!
 ```
 
 ## Solution
-For the Solution of the challenge revert to [Contribution guidelines for this project](./solution.py)
+For the Solution of the challenge revert to [solution.py](./solution.py) file.
 
 ### Get in Touch
 [Youtube Channel](https://www.youtube.com/channel/UC9xQ06-ObRbAIqk4OUnlXeg)<br />
