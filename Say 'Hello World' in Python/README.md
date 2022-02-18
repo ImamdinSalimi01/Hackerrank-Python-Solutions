@@ -21,6 +21,9 @@ Print `Hello, World!` to stdout.
 Hello, World!
 ```
 
+## Solution
+For the Solution of the challenge revert to [Contribution guidelines for this project](./solution.py)
+
 ### Get in Touch
 [Youtube Channel](https://www.youtube.com/channel/UC9xQ06-ObRbAIqk4OUnlXeg)<br />
 [Portfolio](https://imamdin-salimi.netlify.app)<br />
