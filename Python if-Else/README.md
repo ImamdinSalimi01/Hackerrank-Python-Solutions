@@ -24,6 +24,20 @@ Weird
 `n` = 3 <br />
 `n` is odd and odd numbers are Weird, so print `Weird`
 
+### Sample Input 1
+```
+24
+```
+### Sample Output 1
+```
+Not Weird
+```
+
+### Explanation 1
+`n` = 24 <br />
+`n` \> 20 and `n` is even, so it is not Weird.
+
+
 ## Solution
 For the Solution of the challenge revert to [solution.py](./solution.py) file.
 
