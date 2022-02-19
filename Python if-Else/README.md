@@ -11,14 +11,18 @@ A single line containing a positive integer, `n`.
 ### Output Format
 Print `Weird` if the number is weird. Otherwise, print `Not Weird`.
 
-### Sample Input
+### Sample Input 0
 ```
 3
 ```
-### Sample Output
+### Sample Output 0
 ```
 Weird
 ```
+
+### Explanation 0
+`n` = 3 <br />
+`n` is odd and odd numbers are Weird, so print `Weird`
 
 ## Solution
 For the Solution of the challenge revert to [solution.py](./solution.py) file.
