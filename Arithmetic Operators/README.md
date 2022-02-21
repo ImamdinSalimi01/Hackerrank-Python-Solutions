@@ -7,7 +7,7 @@ The provided code stub reads two integers from STDIN,`a` and `b`. Add code to pr
 3. The third line contains the product of the two numbers. 
 
 ### Example
-`a` = 3
+`a` = 3 <br />
 `b` = 5 <br />
 
 Print the following:
@@ -27,7 +27,7 @@ The second line contains the second integer, `b`.
 ```
 ### Sample Output 0
 ```
-Weird
+
 ```
 
 ### Explanation 0
