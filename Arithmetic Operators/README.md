@@ -17,17 +17,20 @@ Print the following:
 15
 ```
 ### Input Format 
-The first line contains the first integer, `a`.
-The second line contains the second integer, `b`. 
+The first line contains the first integer, `a`. <br />
+The second line contains the second integer, `b`. <br />
 ### Output Format
-
+Print the three lines as explained above. 
 ### Sample Input 0
 ```
-
+3
+2
 ```
 ### Sample Output 0
 ```
-
+5
+1
+6
 ```
 
 ### Explanation 0
