@@ -9,7 +9,7 @@ No rounding or formatting is necessary.
 `a` = 3 <br />
 `b` = 5 <br />
 - The result of the integer division 3 // 5 = 0.
-- The result of the float division is 3 / 5 = 0.6.
+- The result of the float division is 3 / 5 = 0.6. <br />
 Print:
 ```
 0
