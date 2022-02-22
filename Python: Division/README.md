@@ -6,10 +6,14 @@ Add logic to print two lines. The first line should contain the result of intege
 The second line should contain the result of float division, `a` / `b`. <br />
 No rounding or formatting is necessary.
 ### Example
-
-Print the following:
+`a` = 3 <br />
+`b` = 5 <br />
+- The result of the integer division 3 // 5 = 0.
+- The result of the float division is 3 / 5 = 0.6.
+Print:
 ```
-
+0
+0.6
 ```
 ### Input Format 
 The first line contains the first integer, `a`. <br />
