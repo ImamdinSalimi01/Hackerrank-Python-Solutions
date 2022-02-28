@@ -1,11 +1,11 @@
 # Print Function Challenge
 The included code stub will read an integer,`n` , from STDIN.
 Without using any string methods, try to print the following:  <br />
-`123...n`
-Note that "..." represents the consecutive values in between.
+`123...n` <br />
+> Note that "..." represents the consecutive values in between.
 
 ### Example
-`n = 5`
+`n = 5` <br />
 Print the string `12345`.
 
 ### Input Format 
