@@ -1,5 +1,5 @@
 # Print Function Challenge
-The included code stub will read an integer,`n` , from STDIN.
+The included code stub will read an integer,`n` , from STDIN.<br />
 Without using any string methods, try to print the following:  <br />
 `123...n` <br />
 > Note that "..." represents the consecutive values in between.
