@@ -36,6 +36,19 @@ Each variable `x, y` and `z` will have values of `0` or `1` . All permutations o
 `[i, j, k] = [[0, 0, 0], [0, 0, 1], [0, 1, 0], [0, 1, 2], [0, 2, 1], [0, 2, 2], [1, 0, 0], [1, 0, 2], [1, 1, 1], [1, 1, 2], [1, 2, 0], [1, 2, 1], [1, 2, 2], [2, 0, 1], [2, 0, 2], [2, 1, 0], [2, 1, 1], [2, 1, 2], [2, 2, 0], [2, 2, 1], [2, 2, 2]]` <br />
 
 Remove all arrays that sum to `n = 2` to leave only the valid permutations.
+
+### Sample Input 1
+```
+2
+2
+2
+2
+```
+
+### Sample Output 1
+```
+[[0, 0, 0], [0, 0, 1], [0, 1, 0], [0, 1, 2], [0, 2, 1], [0, 2, 2], [1, 0, 0], [1, 0, 2], [1, 1, 1], [1, 1, 2], [1, 2, 0], [1, 2, 1], [1, 2, 2], [2, 0, 1], [2, 0, 2], [2, 1, 0], [2, 1, 1], [2, 1, 2], [2, 2, 0], [2, 2, 1], [2, 2, 2]]
+```
 ## Solution
 For the Solution of the challenge revert to [solution.py](./solution.py) file.
 
