@@ -3,7 +3,7 @@
 ### Task
 Given the names and grades for each student in a class of `N` students, store them in a nested list and print the name(s) of any student(s) having the second lowest grade. <br />
 
-*Note:* If there are multiple students with the second lowest grade, order their names alphabetically and print each name on a new line.
+**Note:** If there are multiple students with the second lowest grade, order their names alphabetically and print each name on a new line.
 ### Example
 The ordered list of scores is , so the second lowest score is `[20.0, 50.0]`, so the second score is `50.0`.
 There are two students with that score: `["beta", "alpha"]`,  Ordered alphabetically, the names are printed as:
